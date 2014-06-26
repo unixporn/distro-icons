@@ -11,8 +11,8 @@
 ### Source
 Delete lines that are not used.
 
-    **Wallpaper**: [your wallpaper here]
-    **GTK/KDE/Other theme**: [your theme here]
-    **Icons**: [your icon theme here]
-    **Conky**: [your conky here]
-    **Other**: [anything else you'd like to say]
+    + **Wallpaper**: [your wallpaper here]
+    + **GTK/KDE/Other theme**: [your theme here]
+    + **Icons**: [your icon theme here]
+    + **Conky**: [your conky here]
+    + **Other**: [anything else you'd like to say]
