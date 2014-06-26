@@ -1,5 +1,6 @@
-The Rules
+# The Rules
 This is a general expansion on the rules mentioned in the subreddit sidebar. Any breach of these rules will result in the appropriate actions being taken. By using the subreddit you agree to follow the rules.
+
 
 ## 1. - Reddiquette
 Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw) They make for a much nicer community.
@@ -28,65 +29,51 @@ Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://
   + #### 1.3.1
   Ignore trolls. Feeding them only makes them hungrier.
 
+
 ## 2.0 - Content
-Please post only on topic content. Anything obviously off topic will be deleted with immediate effect. Anything posted
+Please post only on topic content. Anything obviously off topic will be deleted with immediate effect.
 
+* ### 2.1
+  For sharing your unix setup please use the following services.
 
+  + #### **2.1.1** - [imgur](http://imgur.com/)
+  + #### **2.1.2** - [minus](http://minus.com/)
+  + #### **2.1.3** - [gfycat](http://gfycat.com/)
+
+  + #### 2.1.4
+    If you think a different site should be added to this list messages us and we'll check it out.
+
+  + #### 2.1.5
+    You are free to provide alternate sources in the comments section not listed here.
+
+* ### 2.2
+  When posting your unix setup please provide basic information about it in the comments.
+
+  + #### **2.2.1** - you must provide a link to your wallpaper, or at the very least the original source.
+
+* ### 2.3
+  You are welcome to share gtk/kde themes, icon themes, conky configss but please do
+
+  + #### 2.3.1
+    This explicitly excludes wallpapers.
 
 ## 3.0 - Catagorisation
-Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of this would be "\[Arch][DWM] Obscurity Taco"
+Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of this would be "\[Arch][DWM] Obscurity Taco".
+
+* ### 3.1
+  If a post title is done incorrectly the post will be deleted because it is impossible to edit them.
+
+* ### 3.2 Mark NSFW submissions as NSFW. The title of the sub does not mean that we accept.
+  
+  + #### 3.2.1 If your comment links to NSFW content, tag it.
+
+  + #### 3.2.2 NSFW content includes (but is not limited to), hard & soft pornography, gore, and 
+  
+  + #### 3.2.3 Use the NSFW tag to hide spoilers that may be visible (perhaps from your desktop wallpaper) in the thumbnail, and warn in the title. Similarly, try to avoid using titles which are spoilers.
+  
+* ### 3.3 Mark original content posts with ""\[OC][Type] Post Title". An example of this would be "\[OC][Icons] Numix Square".
 
 
-
-### 2.
-Emails will not be made public, will not be given to any third party, and will only be seen and used by Joshua Fogg. No exceptions.
-
-### 2.
-Each email you recieve marks the begining of a new session.
-
-### 2.
-You will be emailed once every three days with the result of the previous sessions votes and a link to the new sessions votes.
-
-### 2.
-In your email you will be given a 6 digit hex code to enter at the end of your voting poll. This is your unique ID and is used to identify you in the vote. Do not show this to anyone unless you want to have your votes made for you.
-
-### 2.5
-You may cancel your voter membership at any time. Simply do this by emailing your unique ID, alias or name to joshua.h.fogg@gmail.com with the subject line "DP Quit".
-
-
-## 3.0 - Content
-The Democracy Project creates Linux themeing projects, by the users for the users.
-
-### 3.1
-All content is licensed under the GPLv3 unless stated otherwise.
-
-### 3.2
-The Democracy Project will begin with only one usable "product", the icon theme. This icon theme is a fork of version 1 of the Numix Circle icon theme.
-
-### 3.3
-The Democracy Project will begin with three unusable "products". These are a non-existent GTK theme, a non-existent conky collection, and a non-existent wallpaper pack.
-
-### 3.4
-The project is only allowed one of each type of project in order to stop duplication of effort.
-* **3.4.1** Any wallpapers given to the project must be put in the wallpapers repo.
-* **3.4.2** Any conky config's given to the project must be put in the conky repo.
-
-### 3.5
-Anyone can propose additional "product" types.
-* **3.5.1** Additional product type creation automatically updates the constitution with implied rules.
-
-### 3.6
-Corrections may be made without vote. An example would be a symlink that is missing the file type or a document with a spelling error.
-
-
-## 4.0 - Behaviour
-Treat others as you wish to be treated yourself.
-
-### 4.1
-Any behaviour found to hatful against another user will result in a session ban with the outcome being decided in the next vote.
-
-### 4.2
-Any behaviour found to be intentionally causing damage to the project will result in a session ban with the outcome being decided in the next vote.
 
 
 ## 5.0 - Moderation
