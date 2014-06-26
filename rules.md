@@ -36,9 +36,9 @@ Please post only on topic content. Anything obviously off topic will be deleted 
 * ### 2.1
   For sharing your unix setup please use the following services.
 
-  + #### **2.1.1** - [imgur](http://imgur.com/)
-  + #### **2.1.2** - [minus](http://minus.com/)
-  + #### **2.1.3** - [gfycat](http://gfycat.com/)
+  + **2.1.1** - [imgur](http://imgur.com/)
+  + **2.1.2** - [minus](http://minus.com/)
+  + **2.1.3** - [gfycat](http://gfycat.com/)
 
   + #### 2.1.4
     If you think a different site should be added to this list messages us and we'll check it out.
