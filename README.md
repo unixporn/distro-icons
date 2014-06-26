@@ -1,4 +1,4 @@
 subreddit
 =========
 
-Resources for the sub.
+Resources for the sub. CSS based on Naut.
