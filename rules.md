@@ -1,5 +1,5 @@
 The Rules
-This is a general expansion on the rules mentioned in the subreddit sidebar. Any breach of these rules will result in the appropriate actions being taken.
+This is a general expansion on the rules mentioned in the subreddit sidebar. Any breach of these rules will result in the appropriate actions being taken. By using the subreddit you agree to follow the rules.
 
 ## 1. - Reddiquette
 Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw) They make for a much nicer community.
@@ -13,14 +13,30 @@ Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://
  + #### 1.1.2
    Try to make critisism constructive wherever possible.
 
+ + #### 1.1.3
+   Be polite to those offering constructive critisism  - they're only trying to help.
+
+ + #### 1.1.4
+   Be aware of the fact that different people will have different opinions on what makes an attractive setup.
+
 * ### 1.2
-  Be polite to those offering constructive critisism  - they're only trying to help.
+  If you have been found to be breaking any of the subs rules either rectify if possible or ensure it does not happen again.
 
 * ### 1.3
-  Thing
+  Report content (comments, posts and PMs) that you believe to be breaking any of the rules stated here. We try out best to keep an eye on things but we'll always end up missing the ocassional comment.
+  
+  + #### 1.3.1
+  Ignore trolls. Feeding them only makes them hungrier.
 
 ## 2.0 - Content
-Please use appropriate
+Please post only on topic content. Anything obviously off topic will be deleted with immediate effect. Anything posted
+
+
+
+## 3.0 - Catagorisation
+Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of this would be "\[Arch][DWM] Obscurity Taco"
+
+
 
 ### 2.
 Emails will not be made public, will not be given to any third party, and will only be seen and used by Joshua Fogg. No exceptions.
