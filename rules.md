@@ -42,7 +42,9 @@ Please post only on topic content. Anything obviously off topic will be deleted 
   For sharing your unix setup please use the following services.
 
   + #### 2.2.1 - [imgur](http://imgur.com/)
+
   + #### 2.2.2 - [minus](http://minus.com/)
+
   + #### 2.2.3 - [gfycat](http://gfycat.com/)
 
   + #### 2.2.4
@@ -58,9 +60,8 @@ Please post only on topic content. Anything obviously off topic will be deleted 
   When posting your unix setup please provide basic information about it in the comments.
 
   + #### **2.2.1** - you must provide a link to your wallpaper, or at the very least the original source.
-  + #### **2.2.2** - if you use a prebuilt conky config, you must source it.
-  + #### **2.2.3** - if you use a custom conky config which is not easily and securely available elsewhere, please host it [here](https://github.com/unixporn/conky-configs).
-  + #### **2.
+
+  + #### **2.2.2** - it's not required but if you're stuggling to format the information use this [template](https://github.com/unixporn/subreddit/blob/master/template.md)
 
 * ### 2.4
   You are welcome to share gtk/kde themes, icon themes, conky configss but please do so only if it is your own creation.
@@ -97,9 +98,9 @@ Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of
 
 * ### 3.5 Mark meta discussions (about the sub itself) with the [Meta] tag.
 
-## 5.0 - Moderation
+## 4.0 - Moderation
 Who watches the Watchmen? We need to be kept in line too. If you think we're out of line let us know.
 
-### 5.1 - Users must be notified of major rule changes 24 hours before they come into effect.
+* ### 4.1 - Users must be notified of major rule changes 24 hours before they come into effect.
 
-### 5.2 - A valid petition to remove a moderator which gathers signatures greater than or equal to 20% of the subscriber count at the formation of said petition will result in the immediate removal of that mod.
+* ### 4.2 - A valid petition to remove a moderator which gathers signatures greater than or equal to 20% of the subscriber count at the formation of said petition will result in the immediate removal of that mod.
