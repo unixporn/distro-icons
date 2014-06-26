@@ -1,39 +1,37 @@
-# 0.0 - Rules
+The Rules
 This is a general expansion on the rules mentioned in the subreddit sidebar. Any breach of these rules will result in the appropriate actions being taken.
 
-## 1.0 - Reddiquette
+## 1. - Reddiquette
 Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw) They make for a much nicer community.
 
-  ### 1.1
+* ### 1.1
   Be respectful toward others in the community.
 
-    #### 1.1.1
-    Be patient toward people asking for help in the appropriate place - we were all there once.
+ + #### 1.1.1
+   Be patient toward people asking for help in the appropriate place - we were all there once.
 
-    #### 1.1.2
-    Try to make critisism constructive wherever possible.
+ + #### 1.1.2
+   Try to make critisism constructive wherever possible.
 
-  ### 1.2
+* ### 1.2
   Be polite to those offering constructive critisism  - they're only trying to help.
 
-
-
-### 1.3
-
+* ### 1.3
+  Thing
 
 ## 2.0 - Content
 Please use appropriate
 
-### 2.1
+### 2.
 Emails will not be made public, will not be given to any third party, and will only be seen and used by Joshua Fogg. No exceptions.
 
-### 2.2
+### 2.
 Each email you recieve marks the begining of a new session.
 
-### 2.3
+### 2.
 You will be emailed once every three days with the result of the previous sessions votes and a link to the new sessions votes.
 
-### 2.4
+### 2.
 In your email you will be given a 6 digit hex code to enter at the end of your voting poll. This is your unique ID and is used to identify you in the vote. Do not show this to anyone unless you want to have your votes made for you.
 
 ### 2.5
