@@ -26,7 +26,7 @@ Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://
 * ### 1.3
   Report content (comments, posts and PMs) that you believe to be breaking any of the rules stated here. We try out best to keep an eye on things but we'll always end up missing the ocassional comment.
   
-  + #### 1.3.1
+  + **1.3.1**
   Ignore trolls. Feeding them only makes them hungrier.
 
 
@@ -38,7 +38,7 @@ Please post only on topic content. Anything obviously off topic will be deleted 
 
   + **2.1.1** - [imgur](http://imgur.com/)
   + **2.1.2** - [minus](http://minus.com/)
-  + + **2.1.3** - [gfycat](http://gfycat.com/)
+  + **2.1.3** - [gfycat](http://gfycat.com/)
 
   + #### 2.1.4
     If you think a different site should be added to this list messages us and we'll check it out.
