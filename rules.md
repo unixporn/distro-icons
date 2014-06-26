@@ -2,17 +2,13 @@
 This is a general expansion on the rules mentioned in the subreddit sidebar. Any breach of these rules will result in the appropriate actions being taken.
 
 ## 1.0 - Reddiquette
-Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw). They make for a much nicer community.
+Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw) They make for a much nicer community.
 
 ### 1.1
 Try to make critisism constructive wherever possible.
 
 ### 1.2
-For a vote to succesful it must meet the following conditions:
-* **1.2.1** More than 60% or more must agree on a decision, else it is carried forward to the next session.
-* **1.2.2** At least 10% of all registered voters must vote, else it is carried forward to the next session.
-* **1.2.3** No exceptions are to be made to the above rules.
-* **1.2.4** Note: voting to abstain is not the same as not voting.
+Be patient toward people asking for help in the appropriate place - we were all there once.
 
 ## 2.0 - Content
 
