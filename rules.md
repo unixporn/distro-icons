@@ -26,36 +26,56 @@ Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://
 * ### 1.3
   Report content (comments, posts and PMs) that you believe to be breaking any of the rules stated here. We try out best to keep an eye on things but we'll always end up missing the ocassional comment.
   
-  + **1.3.1**
+  + #### 1.3.1
   Ignore trolls. Feeding them only makes them hungrier.
 
+  + #### 1.3.2
+  Serriously. Ignore them.
 
 ## 2.0 - Content
 Please post only on topic content. Anything obviously off topic will be deleted with immediate effect.
 
 * ### 2.1
-  For sharing your unix setup please use the following services.
-
-  + **2.1.1** - [imgur](http://imgur.com/)
-  + **2.1.2** - [minus](http://minus.com/)
-  + **2.1.3** - [gfycat](http://gfycat.com/)
-
-  + #### 2.1.4
-    If you think a different site should be added to this list messages us and we'll check it out.
-
-  + #### 2.1.5
-    You are free to provide alternate sources in the comments section not listed here.
+  Do not take credit for something that isn't yours.
 
 * ### 2.2
+  For sharing your unix setup please use the following services.
+
+  + #### 2.2.1 - [imgur](http://imgur.com/)
+  + #### 2.2.2 - [minus](http://minus.com/)
+  + #### 2.2.3 - [gfycat](http://gfycat.com/)
+
+  + #### 2.2.4
+    If you think a different site should be added to this list messages us and we'll check it out.
+
+  + #### 2.2.5
+    You are free to provide alternate sources in the comments section not listed here.
+
+  + #### 2.2.6
+    For images use png over jpg when possible - it will result in a higher quality image. 
+
+* ### 2.3
   When posting your unix setup please provide basic information about it in the comments.
 
   + #### **2.2.1** - you must provide a link to your wallpaper, or at the very least the original source.
+  + #### **2.2.2** - if you use a prebuilt conky config, you must source it.
+  + #### **2.2.3** - if you use a custom conky config which is not easily and securely available elsewhere, please host it [here](https://github.com/unixporn/conky-configs).
+  + #### **2.
 
-* ### 2.3
-  You are welcome to share gtk/kde themes, icon themes, conky configss but please do
+* ### 2.4
+  You are welcome to share gtk/kde themes, icon themes, conky configss but please do so only if it is your own creation.
 
-  + #### 2.3.1
+  + #### 2.4.1
     This explicitly excludes wallpapers.
+
+  + #### 2.4.2
+    The mods reserve the right to add more items to the exclusion list at any time.
+
++ ### 2.5
+  We do not generally permit cross posts as this violates rule 2.1. However, we will make exceptions if you messages us with reasoning we find acceptable before hand.
+
++ ### 2.6
+  You are welcome to start discussions about related topics at any time.
 
 ## 3.0 - Catagorisation
 Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of this would be "\[Arch][DWM] Obscurity Taco".
@@ -73,8 +93,13 @@ Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of
   
 * ### 3.3 Mark original content posts with ""\[OC][Type] Post Title". An example of this would be "\[OC][Icons] Numix Square".
 
+* ### 3.4 Mark discussions with the [Discussion] tag.
 
-
+* ### 3.5 Mark meta discussions (about the sub itself) with the [Meta] tag.
 
 ## 5.0 - Moderation
-Moderation rules are still being created and so Joshua Fogg reserves the right to add them over the next week without breaking the rules of this constitution. The way it will essentially work is a tiered permissions system with votes needed to go up each level.
+Who watches the Watchmen? We need to be kept in line too. If you think we're out of line let us know.
+
+### 5.1 - Users must be notified of major rule changes 24 hours before they come into effect.
+
+### 5.2 - A valid petition to remove a moderator which gathers signatures greater than or equal to 20% of the subscriber count at the formation of said petition will result in the immediate removal of that mod.
