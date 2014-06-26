@@ -4,17 +4,17 @@ This is a general expansion on the rules mentioned in the subreddit sidebar. Any
 ## 1.0 - Reddiquette
 Follow the [rules of reddit](http://www.reddit.com/wiki/reddiquette)[!](https://www.youtube.com/watch?v=4fLpktf2jYw) They make for a much nicer community.
 
-### 1.1
-Be respectful toward others in the community.
+  ### 1.1
+  Be respectful toward others in the community.
 
-#### 1.1.1
-Be patient toward people asking for help in the appropriate place - we were all there once.
+    #### 1.1.1
+    Be patient toward people asking for help in the appropriate place - we were all there once.
 
-#### 1.1.2
-Try to make critisism constructive wherever possible.
+    #### 1.1.2
+    Try to make critisism constructive wherever possible.
 
-### 1.2
-Be polite to those offering constructive critisism  - they're only trying to help.
+  ### 1.2
+  Be polite to those offering constructive critisism  - they're only trying to help.
 
 
 
