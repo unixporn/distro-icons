@@ -59,9 +59,11 @@ Please post only on topic content. Anything obviously off topic will be deleted 
 * ### 2.3
   When posting your unix setup please provide basic information about it in the comments.
 
-  + #### **2.2.1** - you must provide a link to your wallpaper, or at the very least the original source.
+  + #### **2.2.1**
+    You must provide a link to your wallpaper, or at the very least the original source.
 
-  + #### **2.2.2** - it's not required but if you're stuggling to format the information use this [template](https://github.com/unixporn/subreddit/blob/master/template.md)
+  + #### **2.2.2**
+    It's not required but if you're stuggling to format the information use this [template](https://github.com/unixporn/subreddit/blob/master/template.md)
 
 * ### 2.4
   You are welcome to share gtk/kde themes, icon themes, conky configss but please do so only if it is your own creation.
@@ -84,23 +86,32 @@ Use the correct syntax for post titles: "\[OS][WM/DE] Post Title". An example of
 * ### 3.1
   If a post title is done incorrectly the post will be deleted because it is impossible to edit them.
 
-* ### 3.2 Mark NSFW submissions as NSFW. The title of the sub does not mean that we accept.
+* ### 3.2
+  Mark NSFW submissions as NSFW. The title of the sub does not mean that we accept.
   
-  + #### 3.2.1 If your comment links to NSFW content, tag it.
+  + #### 3.2.1
+    If your comment links to NSFW content, tag it.
 
-  + #### 3.2.2 NSFW content includes (but is not limited to), hard & soft pornography, gore, and 
+  + #### 3.2.2
+    NSFW content includes (but is not limited to), hard & soft pornography, gore, and 
   
-  + #### 3.2.3 Use the NSFW tag to hide spoilers that may be visible (perhaps from your desktop wallpaper) in the thumbnail, and warn in the title. Similarly, try to avoid using titles which are spoilers.
+  + #### 3.2.3
+    Use the NSFW tag to hide spoilers that may be visible (perhaps from your desktop wallpaper) in the thumbnail, and warn in the title. Similarly, try to avoid using titles which are spoilers.
   
-* ### 3.3 Mark original content posts with ""\[OC][Type] Post Title". An example of this would be "\[OC][Icons] Numix Square".
+* ### 3.3
+  Mark original content posts with ""\[OC][Type] Post Title". An example of this would be "\[OC][Icons] Numix Square".
 
-* ### 3.4 Mark discussions with the [Discussion] tag.
+* ### 3.4
+  Mark discussions with the [Discussion] tag.
 
-* ### 3.5 Mark meta discussions (about the sub itself) with the [Meta] tag.
+* ### 3.5
+  Mark meta discussions (about the sub itself) with the [Meta] tag.
 
 ## 4.0 - Moderation
 Who watches the Watchmen? We need to be kept in line too. If you think we're out of line let us know.
 
-* ### 4.1 - Users must be notified of major rule changes 24 hours before they come into effect.
+* ### 4.1
+  Users must be notified of major rule changes 24 hours before they come into effect.
 
-* ### 4.2 - A valid petition to remove a moderator which gathers signatures greater than or equal to 20% of the subscriber count at the formation of said petition will result in the immediate removal of that mod.
+* ### 4.2
+  A valid petition to remove a moderator which gathers signatures greater than or equal to 20% of the subscriber count at the formation of said petition will result in the immediate removal of that mod.
