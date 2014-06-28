@@ -1,20 +1,178 @@
-	/*
-		Version 2.0
-		Stylesheet by Cryptonaut
-		Last modified: 29 April 2014
-		Details: This is a custom template made by /u/Cryptonaut. 
-		Find out more on /r/Naut.
-
-		--------------------------------------------------------------------------
-		[Changelog]
-		v1.0 - Initial Design - /r/Naut Template
-		v1.5 - Update 1 - New colours, icons and a whole bunch of fixes.
-		V1.6 - Update 2 - Adjustments to make Naut come back to the reddit UX.
-		V1.7 - Update 3 - A whole lot of UI tweaks and fixes.
-		V2.0 - Update 4 - Naut is now on GitHub, added nightmode and some fixes.
-		V2.1 - Update 5 - Initial CSS3 update - Added transitions and minor responsive tweaks.
+	/*      --------------------------------------------------------------------------
+		Based on version 2.1 of the /r/Naut stylesheet by /u/Cryptonaut
 		-------------------------------------------------------------------------- */
+
+		.flair-arch:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%arch%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-chakra:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%chakra%%);
+		    background-repeat: no-repeat;
+		}
+
+
+		.flair-debian:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%debian%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-deepin:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%deepin%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-fedora:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%fedora%%);
+		    background-repeat: no-repeat;
+		}
+
+
+		.flair-gentoo:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%gentoo%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-kubuntu:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%kubuntu%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-linux:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%linux%%);
+		    background-repeat: no-repeat;
+		}
+
+
+		.flair-lubuntu:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%lubuntu%%);
+		    background-repeat: no-repeat;
+		}
+
+
+		.flair-magiea:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%magiea%%);
+		    background-repeat: no-repeat;
+		}
+
+
+		.flair-manjaro:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%manjaro%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-mint:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%mint%%);
+		    background-repeat: no-repeat;
+		}
 			
+
+		.flair-opensuse:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%opensuse%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-siduction:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%siduction%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-ubuntu:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%ubuntu%%);
+		    background-repeat: no-repeat;
+		}
+
 	body {
 		background-color: #f1f1f1;
 		color: #3b3b3b;
@@ -2293,14 +2451,14 @@
 
 		/* My subreddit mainly uses SELF posts */
 
-			.sidebox.submit.submit-link {display: none;} 
+/*			.sidebox.submit.submit-link {display: none;} 
 	
 		/* My subreddit mainly uses LINK posts */
 			/* Then add to the line above and remove  from
 			the line below the asterix and slahes */
 
 
-			/*.sidebox.submit.submit-text {display: none;}*/
+.sidebox.submit.submit-text {display: none;}*/
 
 	/* --------------------------- */
 
