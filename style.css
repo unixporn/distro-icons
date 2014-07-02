@@ -151,6 +151,17 @@
 		    background-repeat: no-repeat;
 		}
 
+		.flair-osx:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%osx%%);
+		    background-repeat: no-repeat;
+		}
+
 		.flair-siduction:before {
 		    content: "";
 		    padding-right: 3px;
@@ -170,6 +181,17 @@
 		    width: 18px;
  	      	    height: 18px;
 		    background: url(%%ubuntu%%);
+		    background-repeat: no-repeat;
+		}
+
+		.flair-windows:before {
+		    content: "";
+		    padding-right: 3px;
+		    text-align: right;
+		    float: left;
+		    width: 18px;
+ 	      	    height: 18px;
+		    background: url(%%windows%%);
 		    background-repeat: no-repeat;
 		}
 
@@ -1207,10 +1229,6 @@
 					.entry .buttons li a:hover {
 						color: #5b92fa;
 					}
-
-					.link .entry li a {opacity: 0;}
-					.link:hover .entry li a {opacity: 100;}
-
 
 					.link .entry li .comments {
 						opacity: 100 !important;
