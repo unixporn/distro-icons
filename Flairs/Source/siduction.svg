@@ -7,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 13.546667 13.546667"
-   height="48"
+   width="14"
+   viewBox="0 0 3.9511112 3.9511112"
+   height="14"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="distributor-logo-siduction.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="siduction.svg"
+   inkscape:export-filename="/home/josh/Code/unixporn/resources/Flairs/siduction.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -22,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,19 +40,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="960"
+     inkscape:window-width="1580"
+     inkscape:window-height="840"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-62.282195"
-     inkscape:cy="4.7718231"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="3.890637"
+     inkscape:cy="7.932702"
+     inkscape:window-x="10"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <g
-     transform="matrix(0.02392452,-0.02346326,0.02340387,0.0240599,-18.477922,-6.221188)"
+     transform="matrix(0.00697799,-0.00684345,0.00682613,0.00701747,-5.3893937,-1.814513)"
      id="g8"
      style="fill:#374d7e;fill-opacity:1">
     <path
@@ -72,7 +76,7 @@
        style="fill:#374d7e;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
-       d="m 371.48114,637.859 c -15.6942,0 -29.41491,8.43056 -36.89937,21.00337 -3.81952,6.41621 -6.01936,13.90621 -6.01936,21.91537 0,23.70335 19.21537,42.91873 42.91873,42.91873 23.70336,0 42.91873,-19.21538 42.91873,-42.91873 0,-8.00915 -2.19984,-15.49915 -6.01936,-21.91537 C 400.89605,646.28956 387.17534,637.859 371.48114,637.859 z"
+       d="m 371.48114,637.859 c -15.6942,0 -29.41491,8.43056 -36.89937,21.00337 -3.81952,6.41621 -6.01936,13.90621 -6.01936,21.91537 0,23.70335 19.21537,42.91873 42.91873,42.91873 23.70336,0 42.91873,-19.21538 42.91873,-42.91873 0,-8.00915 -2.19984,-15.49915 -6.01936,-21.91537 C 400.89605,646.28956 387.17534,637.859 371.48114,637.859 Z"
        id="path18"
        style="fill:#374d7e;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />

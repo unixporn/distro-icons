@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 13.546667 13.546667"
-   height="48"
+   width="14"
+   viewBox="0 0 3.9511112 3.9511112"
+   height="14"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="distributor-logo-opensuse.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="opensuse.svg">
   <metadata
      id="metadata205">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="960"
+     inkscape:window-width="1580"
+     inkscape:window-height="840"
      id="namedview203"
      showgrid="true"
-     inkscape:zoom="1.2291667"
-     inkscape:cx="-122.34477"
-     inkscape:cy="55.93305"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="27.812867"
+     inkscape:cx="-1.3002098"
+     inkscape:cy="6.725578"
+     inkscape:window-x="10"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -55,290 +56,312 @@
     <clipPath
        id="clipPath6">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect8" />
+         width="477.14001"
+         id="rect8"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath10">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect12" />
+         width="477.14001"
+         id="rect12"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath14">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect16" />
+         width="477.14001"
+         id="rect16"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath18">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect20" />
+         width="477.14001"
+         id="rect20"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath22">
       <rect
-         transform="matrix(.99975 -.02255 .02255 .99975 0 0)"
+         transform="matrix(0.99975,-0.02255,0.02255,0.99975,0,0)"
          height="240.87"
-         y="780.64"
-         x="294.93"
+         y="780.64001"
+         x="294.92999"
          width="357.87"
-         fill="#f00"
-         id="rect24" />
+         id="rect24"
+         style="fill:#ff0000" />
     </clipPath>
     <clipPath
        id="clipPath26">
       <rect
          height="195"
-         y="857.54"
-         width="301.43"
-         fill="#fff"
-         id="rect28" />
+         y="857.53998"
+         width="301.42999"
+         id="rect28"
+         x="0"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath30">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect32" />
+         width="477.14001"
+         id="rect32"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath34">
       <rect
          height="30.01"
-         y="977.09"
+         y="977.09003"
          x="276.37"
-         width="79.48"
-         fill="#e20a17"
-         id="rect36" />
+         width="79.480003"
+         id="rect36"
+         style="fill:#e20a17" />
     </clipPath>
     <clipPath
        id="clipPath38">
       <rect
-         transform="rotate(20.37582)"
+         transform="matrix(0.93742901,0.34817646,-0.34817646,0.93742901,0,0)"
          height="37.48"
-         y="0.064"
-         x="8.208"
-         width="506.46"
-         fill="#162d50"
-         id="rect40" />
+         y="0.064000003"
+         x="8.2080002"
+         width="506.45999"
+         id="rect40"
+         style="fill:#162d50" />
     </clipPath>
     <clipPath
        id="clipPath42">
       <rect
-         transform="rotate(.22918)"
-         height="318.4"
-         y="758.67"
-         x="218.9"
+         transform="matrix(0.999992,0.00399993,-0.00399993,0.999992,0,0)"
+         height="318.39999"
+         y="758.66998"
+         x="218.89999"
          width="357.38"
-         fill="#fff"
-         id="rect44" />
+         id="rect44"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath46">
       <rect
-         transform="rotate(.22918)"
-         height="318.4"
-         y="758.67"
-         x="218.9"
+         transform="matrix(0.999992,0.00399993,-0.00399993,0.999992,0,0)"
+         height="318.39999"
+         y="758.66998"
+         x="218.89999"
          width="357.38"
-         fill="#fff"
-         id="rect48" />
+         id="rect48"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath50">
       <rect
-         transform="rotate(20.37582)"
+         transform="matrix(0.93742901,0.34817646,-0.34817646,0.93742901,0,0)"
          height="37.48"
-         y="0.064"
-         x="8.208"
-         width="506.46"
-         fill="#162d50"
-         id="rect52" />
+         y="0.064000003"
+         x="8.2080002"
+         width="506.45999"
+         id="rect52"
+         style="fill:#162d50" />
     </clipPath>
     <clipPath
        id="clipPath54">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect56" />
+         width="477.14001"
+         id="rect56"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath58">
       <rect
-         transform="rotate(.6171)"
+         transform="matrix(0.999942,0.01077022,-0.01077022,0.999942,0,0)"
          height="235.88"
-         y="804.24"
+         y="804.23999"
          x="221.39"
-         width="350.46"
+         width="350.45999"
          id="rect60" />
     </clipPath>
     <clipPath
        id="clipPath62">
       <rect
-         transform="rotate(.16206)"
+         transform="matrix(0.999996,0.00282848,-0.00282848,0.999996,0,0)"
          height="279.03"
-         y="793.52"
-         x="257.32"
-         width="287.43"
-         fill="#fff"
-         id="rect64" />
+         y="793.52002"
+         x="257.32001"
+         width="287.42999"
+         id="rect64"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath66">
       <rect
          height="195"
-         y="0.06"
-         width="301.43"
-         fill="#fff"
-         id="rect68" />
+         y="0.059999999"
+         width="301.42999"
+         id="rect68"
+         x="0"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath70">
       <rect
          height="195"
-         y="857.54"
-         width="301.43"
-         fill="#fff"
-         id="rect72" />
+         y="857.53998"
+         width="301.42999"
+         id="rect72"
+         x="0"
+         style="fill:#ffffff" />
     </clipPath>
     <path
        clip-path="url(#2)"
        id="0"
-       d="m 699.2857,672.93231 a 40.714287,40.714287 0 1 1 -81.42858,0 40.714287,40.714287 0 1 1 81.42858,0 z"
-       fill="#4a0" />
+       d="m 699.2857,672.93231 a 40.71429,40.71429 0 1 1 -81.42858,0 40.71429,40.71429 0 1 1 81.42858,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#44aa00" />
     <clipPath
        id="clipPath75">
       <use
          xlink:href="#0"
-         transform="matrix(4.3233 0 0 4.3233 -2450.68 -2667.55)"
-         id="use77" />
+         transform="matrix(4.3233,0,0,4.3233,-2450.68,-2667.55)"
+         id="use77"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath79">
       <rect
-         transform="rotate(27.44968)"
-         height="41.39"
-         y="815.74"
+         transform="matrix(0.88741602,0.46096942,-0.46096942,0.88741602,0,0)"
+         height="41.389999"
+         y="815.73999"
          x="448.12"
          width="63.987"
-         fill="#fff"
-         id="rect81" />
+         id="rect81"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath83">
       <rect
          height="195"
-         y="857.54"
-         width="301.43"
-         fill="#fff"
-         id="rect85" />
+         y="857.53998"
+         width="301.42999"
+         id="rect85"
+         x="0"
+         style="fill:#ffffff" />
     </clipPath>
     <clipPath
        id="clipPath87">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect89" />
+         width="477.14001"
+         id="rect89"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath91">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect93" />
+         width="477.14001"
+         id="rect93"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath95">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect97" />
+         width="477.14001"
+         id="rect97"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath99">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect101" />
+         width="477.14001"
+         id="rect101"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath103">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect105" />
+         width="477.14001"
+         id="rect105"
+         style="fill:#ffff00" />
     </clipPath>
     <clipPath
        id="clipPath107">
       <use
          xlink:href="#0"
-         id="use109" />
+         id="use109"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath111">
       <rect
-         height="208.57"
-         y="1580.93"
+         height="208.57001"
+         y="1580.9301"
          x="-830"
-         width="477.14"
-         fill="#ff0"
-         id="rect113" />
+         width="477.14001"
+         id="rect113"
+         style="fill:#ffff00" />
     </clipPath>
     <path
        id="1"
-       d="m 699.2857,672.93231 a 40.714287,40.714287 0 1 1 -81.42858,0 40.714287,40.714287 0 1 1 81.42858,0 z"
-       fill="#4a0" />
+       d="m 699.2857,672.93231 a 40.71429,40.71429 0 1 1 -81.42858,0 40.71429,40.71429 0 1 1 81.42858,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#44aa00" />
     <clipPath
        id="2">
       <use
          xlink:href="#1"
-         id="use117" />
+         id="use117"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath119">
       <use
-         transform="matrix(4.3233 0 0 4.3233 -2450.68 -2667.55)"
+         transform="matrix(4.3233,0,0,4.3233,-2450.68,-2667.55)"
          xlink:href="#1"
-         id="use121" />
+         id="use121"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -347,7 +370,7 @@
        y1="280"
        xlink:href="#4"
        id="3"
-       gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" />
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)" />
     <linearGradient
        id="4">
       <stop
@@ -365,7 +388,7 @@
        y1="230"
        xlink:href="#4"
        id="5"
-       gradientTransform="matrix(.375 0 0 .375 298 16)" />
+       gradientTransform="matrix(0.375,0,0,0.375,298,16)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        x2="0"
@@ -373,178 +396,172 @@
        y1="230"
        xlink:href="#4"
        id="6"
-       gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" />
+       gradientTransform="matrix(0.25,0,0,0.25,299.99999,131.99999)" />
     <clipPath
        id="clipPath131">
       <rect
-         color="#bebebe"
          height="20"
          rx="4"
          y="78"
          x="434"
          width="20"
-         id="rect133" />
+         id="rect133"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath135">
       <rect
-         color="#bebebe"
          height="22"
          rx="4"
          y="77"
          x="433"
          width="22"
-         id="rect137" />
+         id="rect137"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath139">
       <rect
-         color="#bebebe"
          height="22"
          rx="5"
          y="77"
          x="433"
          width="22"
-         id="rect141" />
+         id="rect141"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath143">
       <rect
-         color="#bebebe"
          height="30"
          rx="6"
          y="29"
          x="433"
          width="30"
-         id="rect145" />
+         id="rect145"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath147">
       <rect
-         color="#bebebe"
-         fill="url(#6)"
-         transform="matrix(0 -1 1 0 0 0)"
+         transform="matrix(0,-1,1,0,0,0)"
          height="60"
          rx="12.5"
          y="142"
          x="306"
          width="60"
-         id="rect149" />
+         id="rect149"
+         style="color:#bebebe;fill:url(#6)" />
     </clipPath>
     <clipPath
        id="clipPath151">
       <rect
-         color="#bebebe"
-         fill="url(#5)"
          height="90"
          rx="18.75"
          y="31"
          x="307"
          width="90"
-         id="rect153" />
+         id="rect153"
+         style="color:#bebebe;fill:url(#5)" />
     </clipPath>
     <clipPath
        id="clipPath155">
       <rect
-         color="#bebebe"
-         fill="#6d6d6d"
-         opacity="0.2"
          height="30"
          rx="4"
          y="29"
          x="433"
          width="30"
-         id="rect157" />
+         id="rect157"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath159">
       <rect
-         color="#bebebe"
-         fill="#6d6d6d"
-         opacity="0.2"
          height="22"
          rx="3"
          y="77"
          x="433"
          width="22"
-         id="rect161" />
+         id="rect161"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath163">
       <path
          d="m 144,70 c -49.705627,0 -90,40.29437 -90,90 0,49.70563 40.294373,90 90,90 49.70563,0 90,-40.29437 90,-90 0,-49.70563 -40.29437,-90 -90,-90 z m 0,32.1875 c 32.03251,0 58,25.96748 58,58 0,32.03252 -25.96749,58 -58,58 -32.03251,0 -58,-25.96748 -58,-58 0,-32.03252 25.96749,-58 58,-58 z"
-         id="path165" />
+         id="path165"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath167">
       <rect
-         color="#bebebe"
          height="16"
          rx="3"
          y="116"
          x="432"
          width="16"
-         id="rect169" />
+         id="rect169"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath171">
       <path
-         d="m 145,215 c 33.13708,0 60,-26.86292 60,-60 0,-33.13708 -26.86292,-60 -60,-60 -33.13708,0 -60,26.86292 -60,60 0,12.50698 3.8285,24.10633 10.375,33.71875 L 89,211 111.28125,204.625 C 120.89367,211.1715 132.49302,215 145,215 z"
-         id="path173" />
+         d="m 145,215 c 33.13708,0 60,-26.86292 60,-60 0,-33.13708 -26.86292,-60 -60,-60 -33.13708,0 -60,26.86292 -60,60 0,12.50698 3.8285,24.10633 10.375,33.71875 L 89,211 111.28125,204.625 C 120.89367,211.1715 132.49302,215 145,215 Z"
+         id="path173"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath175">
       <path
          d="m 152,204 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
-         id="path177" />
+         id="path177"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath179">
       <path
          d="m 98.03125,23.191212 c -41.492132,1.05238 -74.84375,35.06824 -74.84375,76.812498 0,42.40687 34.405632,76.8125 76.8125,76.8125 42.40687,0 76.8125,-34.40563 76.8125,-76.8125 0,-42.406866 -34.40563,-76.812498 -76.8125,-76.812498 -0.662607,0 -1.310145,-0.0167 -1.96875,0 z M 100,50.659962 c 27.24464,0 49.34375,22.099114 49.34375,49.343748 -1e-5,27.24464 -22.09911,49.34375 -49.34375,49.34375 -27.244636,-1e-5 -49.34375,-22.09911 -49.34375,-49.34375 0,-27.244634 22.099114,-49.343748 49.34375,-49.343748 z"
-         id="path181" />
+         id="path181"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath183">
       <rect
-         color="#bebebe"
-         fill="#6d6d6d"
-         opacity="0.2"
          height="16"
          rx="2"
          y="116"
          x="432"
          width="16"
-         id="rect185" />
+         id="rect185"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath187">
       <rect
-         color="#bebebe"
-         fill="#986767"
          height="240"
          rx="50"
          y="36"
          x="24"
          width="240"
-         id="rect189" />
+         id="rect189"
+         style="color:#bebebe;fill:#986767" />
     </clipPath>
     <clipPath
        id="clipPath191">
       <rect
-         color="#bebebe"
-         fill="url(#3)"
-         transform="rotate(90)"
+         transform="matrix(0,1,-1,0,0,0)"
          height="42"
          rx="9"
          y="223"
          x="307"
          width="42"
-         id="rect193" />
+         id="rect193"
+         style="color:#bebebe;fill:url(#3)" />
     </clipPath>
   </defs>
   <path
-     d="m 3.7454962,1.411111 -0.041009,0.013679 -0.01367,0.027358 c 0,0 -0.025088,1.0963434 -0.027339,1.2174434 C 3.4832712,2.609966 2.9328521,2.4241843 2.1324723,2.2045012 1.8201686,2.1241143 1.5216857,2.0791421 1.2439422,2.0540307 0.45934321,3.4090972 0,4.9789033 0,6.6639006 c 0,2.0565606 0.67256701,3.9435484 1.8043996,5.4716554 0.097421,-0.06825 0.2017801,-0.133129 0.3007333,-0.218866 0.5501409,-0.427392 1.4636139,-0.320814 2.5972419,-0.191508 0.543249,0.06185 1.1652726,0.136264 1.8043997,0.150471 1.7858307,0.01009 3.7078265,-0.315753 4.8937505,-0.834428 0.76663,-0.336527 1.265119,-0.568587 1.572015,-0.848107 0.110685,-0.09076 0.159524,-0.2392852 0.218715,-0.3966946 l 0.04101,-0.1094332 c 0.04967,-0.1271713 0.132108,-0.3978738 0.164036,-0.5471655 0.01429,-0.065315 0.019,-0.1279313 -0.02734,-0.1641497 L 13.204924,9.003033 C 12.68448,9.3153124 11.374634,9.908875 10.156583,9.9332145 8.6473449,9.9648604 5.6074026,8.4144773 5.2901717,8.2506805 L 5.2628323,8.209643 C 5.1868192,8.0279889 4.730415,6.9461078 4.6340263,6.7186169 6.8235435,8.1614523 8.6422926,8.9610686 10.033555,9.085108 c 1.546841,0.1375271 2.75097,-0.7059097 3.267057,-1.0669729 0.100747,-0.068756 0.173421,-0.1251092 0.205046,-0.1367914 l 0.04101,-0.054717 C 13.461124,7.2826995 12.640385,4.6561945 12.029331,4.0238265 11.859868,3.8503974 11.728755,3.6784513 11.455203,3.5176984 9.2432923,2.2276037 3.9913766,1.4470147 3.7454962,1.411111 z m 5.7549411,2.2296997 c 0.0372,-6.12e-4 0.08542,-0.00133 0.123027,0 1.2390347,0.044532 2.2021787,1.0863762 2.1598117,2.3254536 -0.02198,0.5994059 -0.273387,1.1502829 -0.710824,1.5594218 C 10.633798,7.9369529 10.061763,8.1470421 9.4594283,8.1275682 8.2224195,8.0813157 7.2594812,7.0394674 7.2996167,5.8021146 7.3207949,5.2017956 7.5703685,4.6505127 8.0104408,4.2426927 8.4212232,3.8571862 8.9412766,3.6492274 9.5004373,3.6408107 z m -0.05468,0.6565986 C 9.0848442,4.319422 8.7418666,4.4713497 8.4752104,4.7214626 8.171357,5.0068642 7.9962777,5.3834424 7.9831014,5.8021146 c -0.028695,0.8649321 0.6400444,1.5957689 1.5036659,1.6278176 0.4197,0.012845 0.8280947,-0.1257812 1.1345847,-0.4103743 0.305678,-0.2868224 0.479037,-0.6774832 0.492109,-1.094331 0.02887,-0.8663478 -0.65351,-1.5974901 -1.5173357,-1.6278176 -0.0522,-0.00192 -0.09888,-0.00329 -0.150367,0 z m 0.410091,0.7797109 c 0.3838227,0 0.6971547,0.2081882 0.6971547,0.4650908 0,0.2556838 -0.313332,0.4650907 -0.6971547,0.4650907 -0.385037,0 -0.697154,-0.2098016 -0.697154,-0.4650907 0,-0.2569039 0.312117,-0.4650908 0.697154,-0.4650908 z"
+     d="m 1.0924363,0.3998152 -0.011961,0.00399 -0.00399,0.00798 c 0,0 -0.00732,0.3197668 -0.00797,0.3550876 C 1.0159543,0.7494812 0.85541512,0.6952948 0.62197103,0.6312206 0.53088243,0.6077744 0.44382495,0.5946576 0.36281644,0.5873334 0.13397509,0.98256114 0,1.440421 0,1.931879 c 0,0.59983 0.19616536,1.150201 0.52628317,1.595899 0.0284144,-0.01991 0.0588525,-0.03883 0.0877139,-0.06384 0.16045775,-0.124656 0.42688733,-0.09357 0.75752883,-0.05586 0.1584476,0.01804 0.3398711,0.03974 0.5262832,0.04389 0.5208672,0.0029 1.0814492,-0.0921 1.4273437,-0.243375 0.2236004,-0.09815 0.368993,-0.165838 0.4585043,-0.247364 0.032283,-0.02647 0.046528,-0.06979 0.063792,-0.115703 l 0.011961,-0.03192 c 0.014487,-0.03709 0.038531,-0.116046 0.047844,-0.15959 0.00417,-0.01905 0.00554,-0.03731 -0.00797,-0.04788 l -0.047844,0.008 C 3.699644,2.705216 3.3176056,2.878339 2.9623407,2.885438 2.5221463,2.894638 1.6354966,2.442473 1.5429709,2.394699 l -0.00797,-0.01197 C 1.5128299,2.329749 1.3797125,2.014198 1.3515992,1.947847 c 0.6386091,0.420827 1.1690775,0.654048 1.5748624,0.690226 0.4511619,0.04011 0.8023661,-0.20589 0.9528915,-0.3112 0.029384,-0.02005 0.050581,-0.03649 0.059805,-0.0399 l 0.011961,-0.01596 C 3.9261608,2.112362 3.6867786,1.3462978 3.5085546,1.1618571 3.4591278,1.1112736 3.4208866,1.0611227 3.3411006,1.0142364 2.69596,0.6379588 1.1641514,0.4102871 1.0924363,0.3998152 Z m 1.6785243,0.650329 c 0.01085,-1.785e-4 0.024914,-3.879e-4 0.035883,0 0.3613851,0.012989 0.6423021,0.3168597 0.629945,0.6782568 -0.00641,0.174827 -0.079738,0.3355 -0.2073236,0.454832 C 3.1015241,2.303186 2.9346806,2.364462 2.7589997,2.358782 2.3982055,2.345291 2.1173485,2.041419 2.1290547,1.680524 2.1352347,1.505431 2.2080237,1.3446406 2.3363784,1.2256931 2.4561899,1.1132537 2.6078721,1.0525991 2.7709606,1.0501442 Z M 2.7550126,1.2416521 C 2.6497463,1.2480721 2.5497112,1.2923851 2.4719364,1.3653343 2.3833124,1.4485763 2.3322477,1.558412 2.3284047,1.680524 c -0.00837,0.252272 0.1866796,0.465433 0.4385691,0.474781 0.1224125,0.0037 0.2415276,-0.03669 0.3309205,-0.119693 0.089156,-0.08366 0.1397192,-0.197599 0.1435318,-0.31918 0.00842,-0.252685 -0.190607,-0.4659344 -0.4425562,-0.4747799 -0.015225,-5.6e-4 -0.02884,-9.596e-4 -0.043857,0 z M 2.8746225,1.469068 c 0.1119482,0 0.2033367,0.06072 0.2033367,0.135651 0,0.07457 -0.091388,0.135652 -0.2033367,0.135652 -0.1123025,0 -0.2033366,-0.06119 -0.2033366,-0.135652 0,-0.07493 0.091034,-0.135651 0.2033366,-0.135651 z"
      id="path201"
      inkscape:connector-curvature="0"
      style="fill:#73ba25;fill-opacity:1" />
