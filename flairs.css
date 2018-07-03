@@ -1,0 +1,49 @@
+/* --- Addon: User flairs --- */
+.flair:before {
+    content: "";
+    float: left;
+    height: 15px;
+    text-align: right;
+    width: 15px;
+}
+
+.flair-aix { background: url(%%aix%%) no-repeat; }
+.flair-android { background: url(%%android%%) no-repeat; }
+.flair-antergos { background: url(%%antergos%%) no-repeat; }
+.flair-arch { background: url(%%arch%%) no-repeat; }
+.flair-archbang { background: url(%%archbang%%) no-repeat; }
+.flair-bodhi { background: url(%%bodhi%%) no-repeat; }
+.flair-centos { background: url(%%centos%%) no-repeat; }
+.flair-chakra { background: url(%%chakra%%) no-repeat; }
+.flair-crunchbang { background: url(%%crunchbang%%) no-repeat; }
+.flair-debian { background: url(%%debian%%) no-repeat; }
+.flair-deepin { background: url(%%deepin%%) no-repeat; }
+.flair-elementary { background: url(%%elementary%%) no-repeat; }
+.flair-exherbo { background: url(%%exherbo%%) no-repeat; }
+.flair-fedora { background: url(%%fedora%%) no-repeat; }
+.flair-freebsd { background: url(%%freebsd%%) no-repeat; }
+.flair-gentoo { background: url(%%gentoo%%) no-repeat; }
+.flair-gnu { background: url(%%gnu%%) no-repeat; }
+.flair-korora { background: url(%%korora%%) no-repeat; }
+.flair-kubuntu { background: url(%%kubuntu%%) no-repeat; }
+.flair-linux { background: url(%%linux%%) no-repeat; }
+.flair-lmde { background: url(%%lmde%%) no-repeat; }
+.flair-lubuntu { background: url(%%lubuntu%%) no-repeat; }
+.flair-macos { background: url(%%macos%%) no-repeat; }
+.flair-magiea { background: url(%%mageia%%) no-repeat; }
+.flair-manjaro { background: url(%%manjaro%%) no-repeat; }
+.flair-mint { background: url(%%mint%%) no-repeat; }
+.flair-neon { background: url(%%neon%%) no-repeat; }
+.flair-nixos { background: url(%%nixos%%) no-repeat; }
+.flair-opensuse { background: url(%%opensuse%%) no-repeat; }
+.flair-osx { background: url(%%osx%%) no-repeat; }
+.flair-siduction { background: url(%%siduction%%) no-repeat; }
+.flair-solus { background: url(%%solus%%) no-repeat; }
+.flair-ubuntu { background: url(%%ubuntu%%) no-repeat; }
+.flair-ubuntu-gnome { background: url(%%ubuntu-gnome%%) no-repeat; }
+.flair-ubuntu-mate { background: url(%%ubuntu-mate%%) no-repeat; }
+.flair-void { background: url(%%void%%) no-repeat; }
+.flair-windows { background: url(%%windows%%) no-repeat; }
+.flair-xubuntu { background: url(%%xubuntu%%) no-repeat; }
+.flair-zorin { background: url(%%zorin%%) no-repeat; }
+/* --- End Addon --- */
